@@ -1,0 +1,29 @@
+.App {
+  width: 800px;
+  margin: auto;
+  padding: 1em;
+}
+
+.filterText {
+  font-size: medium;
+  padding-right: 0.5em;
+  width: 50%;
+}
+
+.addText {
+  font-size: medium;
+  padding-right: 1em;
+  width: 50%;
+}
+
+text {
+  font-weight: bold;
+  padding-right: 0.5em;
+  padding-bottom: 10em;
+}
+
+input {
+  font-size: small;
+  padding: 0.2em;
+  width: 50%;
+}
